@@ -1,0 +1,319 @@
+# GOOGLE CALENDER DESKLET SPANISH TRANSLATION.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <vazquezaldo74@yahoo.com>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 29/77/2018\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Aldo Vázquez\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+#. googleCalendar@javahelps.com->metadata.json->name
+#: desklet.js:171
+msgid "Google Calendar"
+msgstr "Calendario de Google"
+
+#: desklet.js:230
+msgid "Retrieving events..."
+msgstr "Recuperando eventos..."
+
+#: desklet.js:298 desklet.js:327
+msgid "Unable to retrieve events..."
+msgstr "Incapaz de recuperar los eventos..."
+
+#: desklet.js:330
+msgid "No events found..."
+msgstr "No se encontraron eventos..."
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->date_format->description
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#. googleCalendar@javahelps.com->settings-schema.json->date_format->tooltip
+msgid "Enter the date format here"
+msgstr "Introduce el formato de fecha aquí"
+
+#. googleCalendar@javahelps.com->settings-schema.json->interval->description
+msgid "Number of days to include"
+msgstr "Número de días a incluir"
+
+#. googleCalendar@javahelps.com->settings-schema.json->interval->tooltip
+msgid "Show the agenda for these number of days"
+msgstr "Mostrar esta cantidad de días en la agenda"
+
+#. googleCalendar@javahelps.com->settings-schema.json->interval->units
+msgid "days"
+msgstr "días"
+
+#. googleCalendar@javahelps.com->settings-schema.json->top->description
+msgid "Calendar configuration"
+msgstr "Configuración del calendario"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->calendarName->description
+msgid "Calendar name(s)"
+msgstr "Nombre(s) del(los) calendario(s)"
+
+#. googleCalendar@javahelps.com->settings-schema.json->calendarName->tooltip
+msgid "Enter your calendar names separated by comma here"
+msgstr "Introduce los nombres de tus calendarios separados por comas aquí"
+
+#. googleCalendar@javahelps.com->settings-schema.json->zoom->description
+msgid "Zoom by"
+msgstr "Hacer zoom por"
+
+#. googleCalendar@javahelps.com->settings-schema.json->zoom->tooltip
+msgid "Change the size of the desklet"
+msgstr "Cambiar el tamaño del desklet"
+
+#. googleCalendar@javahelps.com->settings-schema.json->zoom->units
+msgid "times"
+msgstr "tiempo"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->tomorrow_format->description
+msgid "Tomorrow format"
+msgstr "Formato de pasado mañana"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->tomorrow_format->tooltip
+msgid "Enter the tomorrow format here"
+msgstr "Introduce el formato de pasado mañana aquí"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->today_format->description
+msgid "Today format"
+msgstr "Formato de hoy"
+
+#. googleCalendar@javahelps.com->settings-schema.json->today_format->tooltip
+msgid "Enter the today format here"
+msgstr "Introduce el formato de hoy aquí"
+
+#. googleCalendar@javahelps.com->settings-schema.json->delay->description
+msgid "Update every:"
+msgstr "Actualizar cada:"
+
+#. googleCalendar@javahelps.com->settings-schema.json->delay->units
+msgid "minutes"
+msgstr "minutos"
+
+#. googleCalendar@javahelps.com->settings-schema.json->bgcolor->description
+msgid "Background color"
+msgstr "Color de fondo"
+
+#. googleCalendar@javahelps.com->settings-schema.json->bgcolor->tooltip
+msgid "Click the button to select a new background color"
+msgstr "Oprime el botón para seleccionar un nuevo color de fondo"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->cornerradius->description
+msgid "Corner radius"
+msgstr "Radio de las esquinas"
+
+#. googleCalendar@javahelps.com->settings-schema.json->cornerradius->tooltip
+msgid "Radius for rounding the desklet's corners"
+msgstr "Radio para redondearlas esquinas"
+
+#. googleCalendar@javahelps.com->settings-schema.json->cornerradius->units
+msgid "px"
+msgstr "px"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->transparency->description
+msgid "Transparency"
+msgstr "Transparencia"
+
+#. googleCalendar@javahelps.com->settings-schema.json->transparency->tooltip
+msgid "Set the transparency of the desklet"
+msgstr "Définir la transparencia del desklet"
+
+#. googleCalendar@javahelps.com->settings-schema.json->textcolor->description
+msgid "Text color"
+msgstr "Color de texto"
+
+#. googleCalendar@javahelps.com->settings-schema.json->textcolor->tooltip
+msgid "Click the button to select a new text color"
+msgstr "Oprime el botón para seleccionar un nuevo color de texto"
+
+#. googleCalendar@javahelps.com->settings-
+#. schema.json->use_24h_clock->description
+msgid "Use 24h clock"
+msgstr "Utilizar el reloj de 24h"
+
+#. googleCalendar@javahelps.com->settings-schema.json->use_24h_clock->tooltip
+msgid "Check to show time in 24h"
+msgstr "Marcar para mostrar el tiempo en 24h"
+
+#. googleCalendar@javahelps.com->settings-schema.json->display->description
+msgid "Desklet style"
+msgstr "Estilo del desklet"
+
+#. googleCalendar@javahelps.com->metadata.json->description
+msgid "A desklet that displays your agenda based on Google Calendar"
+msgstr "Un desklet que muestra tu agenda basado en el Calendario de Google"
+
+#: xdate.js:13
+msgid "January"
+msgstr "Enero"
+
+#: xdate.js:13
+msgid "February"
+msgstr "Febrero"
+
+#: xdate.js:13
+msgid "March"
+msgstr "Marzo"
+
+#: xdate.js:13
+msgid "April"
+msgstr "Abril"
+
+#: xdate.js:13
+msgid "May"
+msgstr "Mayo"
+
+#: xdate.js:13
+msgid "June"
+msgstr "Junio"
+
+#: xdate.js:13
+msgid "July"
+msgstr "Julio"
+
+#: xdate.js:13
+msgid "August"
+msgstr "Agosto"
+
+#: xdate.js:13
+msgid "September"
+msgstr "Septiembre"
+
+#: xdate.js:13
+msgid "October"
+msgstr "Octubre"
+
+#: xdate.js:13
+msgid "November"
+msgstr "Noviembre"
+
+#: xdate.js:13
+msgid "December"
+msgstr "Diciembre"
+
+#: xdate.js:13
+msgid "Jan"
+msgstr "En"
+
+#: xdate.js:13
+msgid "Feb"
+msgstr "Feb"
+
+#: xdate.js:13
+msgid "Mar"
+msgstr "Mar"
+
+#: xdate.js:13
+msgid "Apr"
+msgstr "Abr"
+
+#: xdate.js:13
+msgid "Jun"
+msgstr "Jun"
+
+#: xdate.js:13
+msgid "Jul"
+msgstr "Jul"
+
+#: xdate.js:13
+msgid "Aug"
+msgstr "Ago"
+
+#: xdate.js:13
+msgid "Sep"
+msgstr "Sep"
+
+#: xdate.js:13
+msgid "Oct"
+msgstr "Oct"
+
+#: xdate.js:13
+msgid "Nov"
+msgstr "Nov"
+
+#: xdate.js:13
+msgid "Dec"
+msgstr "Dic"
+
+#: xdate.js:13
+msgid "Sunday"
+msgstr "Domingo"
+
+#: xdate.js:13
+msgid "Monday"
+msgstr "Lunes"
+
+#: xdate.js:13
+msgid "Tuesday"
+msgstr "Martes"
+
+#: xdate.js:13
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: xdate.js:13
+msgid "Thursday"
+msgstr "Jueves"
+
+#: xdate.js:13
+msgid "Friday"
+msgstr "Viernes"
+
+#: xdate.js:13
+msgid "Saturday"
+msgstr "Sábado"
+
+#: xdate.js:13
+msgid "Sun"
+msgstr "Dom"
+
+#: xdate.js:13
+msgid "Mon"
+msgstr "Lun"
+
+#: xdate.js:13
+msgid "Tue"
+msgstr "Mar"
+
+#: xdate.js:13
+msgid "Wed"
+msgstr "Mie"
+
+#: xdate.js:13
+msgid "Thu"
+msgstr "Jue"
+
+#: xdate.js:13
+msgid "Fri"
+msgstr "Vie"
+
+#: xdate.js:13
+msgid "Sab"
+msgstr "Sab"
+
+#: xdate.js:13
+msgid "AM"
+msgstr "AM"
+
+#: xdate.js:13
+msgid "PM"
+msgstr "PM"
